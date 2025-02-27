@@ -774,3 +774,9 @@ html{
         font-size: 3rem;
     }
 }
+
+.easter-egg {
+    text-decoration: none; /* Remove o sublinhado */
+    color: inherit; /* Mantém a cor do texto como a cor padrão */
+    cursor: pointer; /* Faz o cursor virar a mãozinha ao passar por cima */
+}
